@@ -33,3 +33,4 @@ Questo progetto dimostra una pipeline CI/CD utilizzando **GitHub Actions** per:
 2. Modifica il codice dell'app se necessario
 3. Effettua un commit su `main`
 4. Guarda le Actions partire automaticamente da GitHub
+# Trigger build: Sun May 18 02:56:22 CEST 2025
